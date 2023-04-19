@@ -1,0 +1,76 @@
+@using System.Globalization
+@{
+    Layout = "_AdminLayout";
+}
+<link rel="stylesheet" href="~/css/AdminOrders.css">
+<main>
+    @foreach (TbOrder to in this.ViewBag.Orders)
+    {
+        <div class="box">
+            <div class="cust">
+                <p>Jméno a příjemení: @to.Customer.Name @to.Customer.Surname</p>
+                <p>Email: @to.Customer.Email</p>
+                <p>Telefon: @to.Customer.Phone</p>
+                <p>Adresa: @to.Customer.Adress, @to.Customer.PostalCode</p>
+                <p>@to.Customer.Country</p>
+                <p>Čas: @to.Date</p>
+                <p>Sleva: @to.Discount%</p>
+            </div>
+            <div class="order">
+                <table>
+                    <thead>
+                    <tr>
+                        <td>Fotka</td>
+                        <td>Název</td>
+                        <td>Variace</td>
+                        <td>Cena</td>
+                        <td>Počet</td>
+                        <td>Celková cena</td>
+                    </tr>
+
+                    </thead>
+                    <tbody>
+                    @foreach (var item in ViewBag.OrderDetails)
+                    {
+                        @if (item.OrderId == to.OrderId)
+                        {
+                            <tr>
+                                <td>
+                                    <img src="~/@item.Photo" alt="">
+                                </td>
+                                <td>
+                                    @item.Name
+                                </td>
+                                <td>
+                                    <div class="lolz">
+                                        <p>
+                                            @item.Size
+                                        </p>
+                                        <p>
+                                            @item.Color
+                                        </p>
+                                    </div>
+
+                                </td>
+                                <td>@(item.Price.ToString("n0", new CultureInfo("nb-NO"))) Kč</td>
+                                <td>@item.Quantity</td>
+                                <td>@((item.Price * item.Quantity).ToString("n0", new CultureInfo("nb-NO"))) Kč</td>
+
+                            </tr>
+                        }
+                    }
+                    </tbody>
+                </table>
+                <div class="subtotal">
+                    <div>
+                        <h2>Mezisoučet</h2>
+                    </div>
+                    <div>
+                        <h1>@(to.Price.ToString("n0", new CultureInfo("nb-NO"))) Kč</h1>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    }
+</main>

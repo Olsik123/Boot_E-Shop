@@ -1,0 +1,52 @@
+header{
+    background-color: rgb(48,64,104);
+    color: white;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+}
+
+.right img {
+    width: 40px;
+    height: 40px;
+}
+header .info{
+    font-weight: 300;
+    font-size: 80%;
+    display: flex;
+    align-items: center;
+}
+header img{
+    margin: auto 5px auto 5px;
+    width: 30px ;
+    height: 30px;
+}
+div.login{
+    display: flex;
+    align-items: center;
+    font-weight: lighter;
+    cursor: pointer;
+}
+@media only screen and (max-width: 1000px) {
+
+    header .info{
+        margin-left: 3vw;
+    }
+    div.login{
+        margin-right: 3vw;
+    }
+}
+
+
+
+
+@media only screen and (min-width: 1001px) {
+
+    header .info{
+        margin-left: 10%;
+    }
+    div.login{
+        margin-right: 10%;
+    }
+}
+    

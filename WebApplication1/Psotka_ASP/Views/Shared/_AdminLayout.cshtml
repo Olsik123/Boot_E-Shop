@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com/%22%3E">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;600;700&display=swap"
+          rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - Psotka_ASP</title>
+    <link rel="stylesheet" href="~/css/adminLayout.css"/>
+</head>
+<body>
+<div class="navigation">
+         <a asp-controller="Admin" asp-action="Index">
+        <div class="dashNav">
+            <p>
+                Dashboard
+            </p>
+        </div>
+    </a>
+     <a asp-controller="Admin" asp-action="Boots">
+        <div class="productNav">
+            <p>
+                Produkty
+            </p>
+        </div>
+    </a>
+        <img src="~/img/botybile.png" alt="">
+    <a asp-controller="Admin" asp-action="Order">
+        <div class="ordersNav">
+            <p>
+                Objednávky
+            </p>
+        </div>
+    </a>
+    <a asp-action="LogOut">
+        <div class="logoutNav">
+            <p >
+                Odhlásit&nbsp;se
+            </p>
+        </div>
+    </a>
+
+</div>
+@RenderBody()
+
+</body>
+</html>

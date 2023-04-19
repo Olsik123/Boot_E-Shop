@@ -1,0 +1,52 @@
+.boots{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 50px 10vw;
+}
+.boots .boot {
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    padding: 0px 20px;
+    cursor: pointer;
+}
+.boots .boot:hover img{
+    visibility: unset;
+}
+.boots .boot:hover {
+    padding: 0px 20px;
+    border:  #c7232f solid 2px;
+    font-weight: bolder;
+}
+.boot p {
+    color:  rgb(48,64,104);
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.boot .price{
+    font-weight: bolder;
+    color:  #c7232f;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    flex: 1;
+}
+.boot .price span{
+    color:rgba(105, 105, 105, 0.57);
+    font-weight: normal;
+    text-decoration: line-through;
+}
+.boots .boot img{
+    width: 100%;
+}
+.hid img{
+    flex: 1;
+    max-width: 40px;
+    max-height: 40px;
+    margin-bottom: 20px;
+    visibility: hidden;
+}
+.boot .hid{
+    display: flex;
+}

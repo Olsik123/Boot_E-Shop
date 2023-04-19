@@ -1,0 +1,286 @@
+@using System.Runtime.CompilerServices
+@using System.Security.Cryptography
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@model BootModel
+
+@{
+    Layout = "_AdminLayout";
+}
+<link rel="stylesheet" href="~/css/adminEditBoot.css">
+<main>
+<form asp-controller="Admin" asp-action="EditBootPost" method="post" enctype="multipart/form-data">
+<div class="dom">
+<button type="submit" class="sub">
+    Uložit
+</button>
+</div>
+<div class="formik">
+<div class="firstHalf">
+    <div class="first">
+        <input hidden asp-for="BootId">
+        <input hidden asp-for="@Model.PickedColorId" value="@Model.PickedColorId">
+        <input hidden asp-for="@Model.PickedVariationId" value="@Model.PickedVariationId">
+        @for (var index = 0; index < @Model.Variations.Count; index++)
+        {
+            @if (@Model.PickedVariationId != @Model.Variations[index].VariationId)
+            {
+                <input hidden asp-for="@Model.Variations[index].InStock" value="@Model.Variations[index].InStock">
+                <input hidden asp-for="@Model.Variations[index].Discount" value="@Model.Variations[index].Discount">
+                <input hidden asp-for="@Model.Variations[index].Dph" value="@Model.Variations[index].Dph">
+                <input hidden asp-for="@Model.Variations[index].Price" value="@Model.Variations[index].Price">
+                <input hidden asp-for="@Model.Variations[index].Size" value="@Model.Variations[index].Size">
+                <input hidden asp-for="@Model.Variations[index].BootId" value="@Model.Variations[index].BootId">
+                <input hidden asp-for="@Model.Variations[index].ColorId" value="@Model.Variations[index].ColorId">
+                <input hidden asp-for="@Model.Variations[index].VariationId" value="@Model.Variations[index].VariationId">
+            }
+        }
+        <div class="row3">
+            <div>
+                <h1>Název</h1>
+                <input class="input" asp-for="Name">
+            </div>
+            <div>
+                <h1>Materiál</h1>
+                <input class="input" asp-for="Material">
+            </div>
+            <div>
+                <h1>Kód</h1>
+                <input class="input" asp-for="Code">
+            </div>
+        </div>
+        <div class="row2">
+
+            <div>
+                <h1>Krátký popis</h1>
+                <textarea class="input short" asp-for="ShortDescription"></textarea>
+            </div>
+            <div>
+                <h1>Dlouhý popis</h1>
+                <textarea  type="textarea" class="input long" asp-for="LongDescription"></textarea>
+            </div>
+        </div>
+    </div>
+    <div class="second">
+        <h1>Fotky</h1>
+        <div class="Photos">
+            @for (var index = 0; index < @Model.Photos.Count; index++)
+            {
+                <div class="photo">
+                    <img src="~/@Model.Photos[index].Path" alt="">
+                    <input hidden asp-for="@Model.Photos[index].Path" value="@Model.Photos[index].Path">
+                    <input hidden asp-for="@Model.Photos[index].BootId" value="@Model.Photos[index].BootId">
+                    <input hidden asp-for="@Model.Photos[index].PhotoId" value="@Model.Photos[index].PhotoId">
+                    <button class="remB" asp-action="EditBootDeletePhoto" asp-route-id="@Model.Photos[index].PhotoId">
+                    </button>
+                </div>
+            }
+            <div class="addP">
+                <input asp-for="Image" type="file"
+                       accept="image/png, image/jpeg">
+                <button asp-action="EditBootAddPhoto">
+                    Přidat
+                </button>
+
+            </div>
+        </div>
+    </div>
+    <div class="fourth">
+        <h1>Variace</h1>
+        <div class="Colorss">
+            @for (var index = 0; index < @Model.Colors.Count; index++)
+            {
+                @if (@Model.PickedColorId == @Model.Colors[index].ColorId)
+                {
+                    <div class="pucovna">
+                        <button asp-action="EditBootChooseColor" asp-route-id="@Model.Colors[index].ColorId" style="background-color:@Model.Colors[index].Hexadecimal" class="chosen">
+                        </button >
+                        <button class="delColoB" asp-action="EditBootDeleteColor" asp-route-id="@Model.Colors[index].ColorId">
+                        </button>
+                        <div>
+                            <p>@Model.Colors[index].Color</p>
+                        </div>
+                    </div>
+                }
+                else
+                {
+                    <div>
+                        <button asp-action="EditBootChooseColor" asp-route-id="@Model.Colors[index].ColorId" style="background-color:@Model.Colors[index].Hexadecimal">
+                        </button>
+                        <div>
+                            <p>@Model.Colors[index].Color</p>
+                        </div>
+                    </div>
+                }
+            }
+            <div>
+                <button class="addC" asp-action="EditBootAddColor">
+                </button>
+                <div>
+                    Přidat barvu
+                </div>
+            </div>
+        </div>
+        @for (int i = 0; i < @Model.Colors.Count; i++)
+        {
+            @if (@Model.PickedColorId == @Model.Colors[i].ColorId)
+            {
+                <div class="colorSetting">
+                    <input asp-for="Colors[i].ColorId" hidden value="@Model.Colors[i].ColorId">
+                    <div>
+                        <h1>Název</h1>
+                        <input class="input" asp-for="Colors[i].Color">
+
+                    </div>
+                    <div>
+                        <h1>Barva</h1>
+                        <input id="colorPicker" class="input colorPicker" type="color" asp-for="Colors[i].Hexadecimal" value="@Model.Colors[i].Hexadecimal">
+                    </div>
+                </div>
+                <div class="SizesB">
+                    @foreach (TbVariation tv in @Model.Variations)
+                    {
+                        @if (tv.ColorId == @Model.PickedColorId)
+                        {
+                            <div >
+                                <p>
+                                    <button class="sizen" asp-action="EditBootChooseSize" value="@tv.Size" asp-route-size="@tv.Size">
+                                        @tv.Size
+                                    </button>
+                                </p>
+                                @if (@Model.Variations.Where(x=>x.ColorId == @Model.PickedColorId).Count() != 1)
+                                {
+                                    <button class="delSize" asp-action="EditBootDeleteSize" value="@tv.Size" asp-route-size="@tv.Size">
+                                    </button>
+                                }
+                            </div> 
+                        }
+                          
+                    }
+                    <div >
+                        <button class="sizen addS" asp-action="EditBootAddSize">
+                        </button>
+                    </div>
+                </div>
+                <div class="VariationInfo">
+                    @for (var index = 0; index < @Model.Variations.Count; index++)
+                    {
+                        if (@Model.PickedVariationId == @Model.Variations[index].VariationId)
+                        {
+                            <input hidden asp-for="@Model.Variations[index].BootId" value="@Model.Variations[index].BootId">
+                            <input hidden asp-for="@Model.Variations[index].ColorId" value="@Model.Variations[index].ColorId">
+                            <input hidden asp-for="@Model.Variations[index].VariationId" value="@Model.Variations[index].VariationId">
+                            <div>
+                                <h1>Velikost</h1>
+                                <input type="number" step="0.1" min="1" class="input" asp-for="Variations[index].Size">
+                            </div>
+                            <div>
+                                <h1>Cena</h1>
+                                <input type="number" step="0.01" min="1" class="input" asp-for="Variations[index].Price">
+                            </div>
+                            <div>
+                                <h1>DPH (v %)</h1>
+                                <input type="number" step="0.01" min="0" class="input" asp-for="Variations[index].Dph">
+                            </div>
+                            <div>
+                                <h1>Sleva (v %)</h1>
+                                <input type="number" step="0.01" min="0" max="100" class="input" asp-for="Variations[index].Discount">
+                            </div>
+                            <div>
+                                <h1>Kusů na skladě</h1>
+                                <input type="number" min="0" class="input" asp-for="Variations[index].InStock">
+                            </div>
+                        }
+                        else
+                        {
+                        }
+                    }
+                </div>
+            }
+            else
+            {
+                <input hidden asp-for="@Model.Colors[i].ColorId" value="@Model.Colors[i].ColorId">
+                <input hidden asp-for="@Model.Colors[i].Hexadecimal" value="@Model.Colors[i].Hexadecimal">
+                <input hidden asp-for="@Model.Colors[i].Color" value="@Model.Colors[i].Color">
+            }
+        }
+    </div>
+    <div class="dom">
+    <button type="submit" class="sub">
+        Uložit
+    </button>
+    </div>
+</div>
+<div class="secondHalf">
+    <div class="third">
+
+        <h1>Kategorie</h1>
+        <div class="tables">
+            <table class="leftTable">
+                <tr>
+                    <th colspan="2">Všechny kategorie</th>
+                </tr>
+                <tr>
+                    <th>Jméno</th>
+                    <th>Přesun</th>
+                </tr>
+                @for (var index = 0; index < @Model.NonCategories.Count; index++)
+                {
+                    <tr>
+                        <td>@Model.NonCategories[index].Name</td>
+                        <input hidden asp-for="@Model.NonCategories[index].Left" value="@Model.NonCategories[index].Left">
+                        <input hidden asp-for="@Model.NonCategories[index].Right" value="@Model.NonCategories[index].Right">
+                        <input hidden asp-for="@Model.NonCategories[index].CategoryId" value="@Model.NonCategories[index].CategoryId">
+                        <input hidden asp-for="@Model.NonCategories[index].Name" value="@Model.NonCategories[index].Name">
+                        <td class="blueB">
+                            <button asp-action="EditBootAddCategory" asp-route-id="@Model.NonCategories[index].CategoryId" button class="move">
+                            </button>
+                        </td>
+                    </tr>
+                }
+            </table>
+            <table class="rightTable">
+                <tr>
+                    <th colspan="2">Kategorie Boty</th>
+                </tr>
+                <tr>
+                    <th>Přesun</th>
+                    <th>Jméno</th>
+                </tr>
+                @for (var index = 0; index < @Model.Categories.Count; index++)
+                {
+                    <tr>
+                        <td class="redB">
+                            <button asp-action="EditBootDeleteCategory" asp-route-id="@Model.Categories[index].CategoryId" button class="move">
+                            </button>
+                        </td>
+                        <input hidden asp-for="@Model.Categories[index].Left" value="@Model.Categories[index].Left">
+                        <input hidden asp-for="@Model.Categories[index].Right" value="@Model.Categories[index].Right">
+                        <input hidden asp-for="@Model.Categories[index].CategoryId" value="@Model.Categories[index].CategoryId">
+                        <input hidden asp-for="@Model.Categories[index].Name" value="@Model.Categories[index].Name">
+                        <td>@Model.Categories[index].Name</td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+
+</div>
+</div>
+
+</form>
+</main>
+<script>
+  document.addEventListener("DOMContentLoaded", function (event) {
+    let scrollpos = localStorage.getItem("scrollpos");
+    if (scrollpos) window.scrollTo(0, scrollpos);
+  });
+
+  window.onscroll = function (e) {
+    localStorage.setItem("scrollpos", window.scrollY);
+  };
+
+    let colorPicker = document.getElementById("colorPicker");
+    colorPicker.addEventListener("change", function() {
+        console.log(colorPicker.value);
+    });
+</script>

@@ -1,0 +1,355 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+main{
+    font-size: 150%;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.box{
+    display: flex;
+    border: #4d4d4d solid 1px;
+    border-radius: 30px;
+    margin: 10px;
+    padding: 30px;
+}
+.cust{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cust p{
+    margin: 10px;
+}
+.order{
+    flex: 1;
+}
+
+main {
+    margin: 20px 1vw 0 1vw;
+}
+table,td {
+    border: 1px solid #ddd;
+    text-align: center;
+    width: 40vw;
+    font-size: 80%
+}
+td  {
+    border: 1px solid #ddd;
+}
+table img{
+    width: 150px;
+    height: 150px;
+    aspect-ratio: 1/1;
+}
+.buts{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+}
+main h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+.buts img{
+    aspect-ratio: 1/1;
+    width: 25px;
+    height: 25px;
+}
+.rems{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.rems img{
+    aspect-ratio: 1/1;
+    width: 25px;
+    height: 25px;
+}
+.subtotal {
+    display: flex;
+    justify-content: space-between;
+}
+div.up {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+div.right {
+    display: flex;
+    align-content: center;
+}
+
+div.right > * {
+    margin: 0 20px 0 20px;
+}
+
+.inputik img {
+    width: 24px;
+    height: 24px;
+}
+
+.inputik label {
+    display: flex;
+    padding: 5px;
+    gap: 5px;
+}
+
+.inputik label input {
+    border: none;
+    outline: none;
+}
+
+div.inputik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+nav div {
+
+    color: rgba(105, 105, 105, 0.57);
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+}
+
+nav div img {
+    height: 30px;
+    margin-left: 8px;
+}
+
+nav div:hover {
+    border: #c7232f solid 1px;
+    color: #c7232f;
+    font-weight: bolder;
+}
+
+.navig a {
+    color: #c7232f;
+}
+
+.navig {
+    margin: 15px 0;
+    color: #c7232f;
+}
+
+
+.navig a:hover {
+    color: rgb(48, 64, 104);
+    text-decoration: underline;
+}
+
+h1 {
+    color: rgb(48, 64, 104);
+}
+.formular{
+    margin-bottom: 20px;
+    padding: 0 10px;
+}
+form{
+    color: #304068;
+}
+form p.desc{
+    font-size: 80%;
+    margin-bottom: 20px;
+}
+form label .email{
+    visibility: hidden;
+    color: #c7232f;
+}
+
+form label input.inp:invalid+ .email{
+    visibility: visible;
+}
+
+form label input.inp{
+    height: 50px;
+    width: 100%;
+    font-size: 100%;
+    padding-left: 10px;
+
+}
+form label input.inp::placeholder{
+    color: rgba(105, 105, 105, 0.37);
+}
+form label select  {
+    height: 50px;
+    width: 100%;
+    font-size: 100%;
+
+}
+.name{
+    margin-bottom: 20px;
+}
+form label select::placeholder{
+    color: rgba(105, 105, 105, 0.37);
+}
+p.platba{
+    margin-top: 20px;
+    font-size: 100%;
+}
+.radios{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.radios div label{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 80%;
+    margin: 10px 0;
+}
+.radios div label.rad input {
+    height: 30px;
+    width: 15%;
+    accent-color: #304068;
+}
+
+.radios div label.rad{
+    display: flex;
+    align-items: center;
+}
+.radios div label.righty{
+    justify-content: end;
+    padding-right: 40px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+form button{
+    font-size: 100%;
+}
+form button img{
+    width:20px;
+    height:20px;
+    margin: 0;
+}
+form .leftB{
+    width: 120px;
+    height: 50px;
+    background: white;
+    display: flex;
+    justify-content: center;
+    border:#c7232f solid 1px ;
+    align-items: center;
+    color: #304068;
+}
+form .rightB{
+    width: 175px;
+    height: 50px;
+    background: #c7232f;
+    display: flex;
+    justify-content: center;
+    border: none;
+    align-items: center;
+    color: white;
+
+}
+form .rightB img{
+    rotate: 180deg;
+    filter: brightness(0) invert();
+}
+form button p {
+    margin: 0;
+    padding-left:15px;
+}
+
+.line2 {
+    margin-bottom: 40px;
+    display: flex;
+    align-content: center;
+}
+
+.line2 div {
+    flex: 12;
+    height: 1px;
+    align-self: center;
+    background-color: rgb(180, 190, 213);
+}
+
+@media only screen and (min-width: 1001px) {
+
+    .compHid {
+        display: none !important;
+    }
+
+    main{
+        margin: 20px 10vw 0 10vw;
+    }
+
+    section {
+        display: flex;
+    }
+
+    nav {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .inputik {
+        border: white;
+        border: rgba(105, 105, 105, 0.57) solid 1px;
+    }
+    .formular{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 40px;
+        margin-bottom: 150px;
+    }
+    p.email{
+        margin-bottom: 0;
+    }
+    .radios{
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    .nameSurname{
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+        gap: 50px;
+    }
+    .surname{
+        padding: 0;
+        margin: 0;
+    }
+    .radios div label.righty{
+        justify-content: start;
+        padding-right: 0;
+    }
+    .radios div {
+        margin-bottom: 50px;
+    }
+    form .leftB{
+        cursor: pointer;
+        width: 150px;
+        height: 70px;
+    }
+    form .rightB{
+        cursor: pointer;
+        width: 200px;
+        height: 70px;
+    }
+    h2{
+        font-size: 200%;
+    }
+    .email{
+        font-size: 80%;
+    }
+}

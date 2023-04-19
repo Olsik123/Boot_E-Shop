@@ -1,0 +1,461 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+button{
+    cursor: pointer;
+}
+body{
+    font-size: 150%;
+    font-family: 'Libre Franklin', sans-serif;
+}
+main{
+    margin: 20px 10vw 0 10vw;
+}
+
+div.up {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+div.right{
+    display: flex;
+    align-content: center;
+}
+div.right >* {
+    margin: 0 20px 0 20px;
+}
+
+.inputik img{
+    width: 24px;
+    height: 24px;
+}
+.inputik label{
+    display: flex;
+    padding: 5px;
+    gap:5px;
+}
+.inputik label input{
+    border: none;
+    outline: none;
+}
+div.inputik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+nav div{
+
+    color:rgba(105, 105, 105, 0.57) ;
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+}
+nav div img{
+    height: 30px;
+    margin-left: 8px;
+}
+
+nav div:hover{
+    border:  #c7232f solid 1px;
+    color:  #c7232f;
+    font-weight: bolder;
+}
+
+main .selectionBox{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 10px;
+}
+.nohy{
+    background-image: url("./../img/NOHY.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 520px;
+    margin: 20px 0 20px 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "empty text";
+    position: relative;
+}
+.txtVNohy{
+    grid-area: text;
+    align-self: center;
+}
+.txtVNohy button{
+    background-color: #c7232f;
+    border: none;
+    color: white;
+    height: 45px;
+    width: 180px;
+}
+.kulicky{
+    width: 500px;
+    margin-left: -250px;
+    position: absolute;
+    bottom: 10px;
+    text-align: center;
+    grid-area: text;
+}
+p.upper{
+    color: #c7232f;
+    font-size: 120%;
+}
+.line{
+    display: flex;
+    align-content: center;
+
+}
+.line img{
+    flex: 1;
+    height: 45px;
+    width: 45px;
+}
+.bootHead{
+    color: #c7232f;
+    font-size: 130% ;
+    text-align: center;
+    margin: 30px 0;
+}
+.bootHead span{
+    color:   rgb(48,64,104);
+    font-weight: bold;
+
+}
+.line div{
+    flex: 12;
+    height: 1px;
+    align-self: center;
+    background-color: rgb(180, 190, 213);
+}
+p.bot{
+    font-weight: bolder;
+    color:rgb(48,64,104);
+    font-size: 250%;
+}
+.selectionBox .male{
+    background-image: url("./../img/01.png");
+}
+.selectionBox * p {
+    margin:auto 20px;
+}
+.selectionBox .female{
+    background-image: url("./../img/02.png");
+
+}
+.selectionBox .how{
+    background-image: url("./../img/03-01.png");
+    display: flex;
+}
+.selectionBox .how div{
+    flex: 1;
+}
+main .selectionBox div{
+    flex: 1;
+    color: rgb(48,64,104);
+    height: 250px;
+    background-repeat: no-repeat;
+    display: flex;
+    cursor:pointer;
+    background-size: 100%;
+}
+main .selectionBox div:hover{
+    color: #c7232f;
+    text-decoration: underline;
+}
+main .selectionBox div:hover div{
+    color: #c7232f;
+    text-decoration: underline;
+}
+.boots{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin: 20px 0;
+    justify-content: center;
+}
+.boots .boot {
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    padding: 0px 20px;
+    cursor: pointer;
+}
+.boots .boot:hover img{
+    visibility: unset;
+}
+.boots .boot:hover {
+    padding: 0px 20px;
+    border:  #c7232f solid 2px;
+    font-weight: bolder;
+}
+.boot p {
+    color:   rgb(48,64,104);
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+.boot .price{
+    font-weight: bolder;
+    color:  #c7232f;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    flex: 1;
+}
+.boot .price span{
+    color:rgba(105, 105, 105, 0.57);
+    font-weight: normal;
+    text-decoration: line-through;
+}
+.boots .boot img{
+    width: 100%;
+}
+.hid img{
+    flex: 1;
+    max-width: 40px;
+    max-height: 40px;
+    margin-bottom: 20px;
+    visibility: hidden;
+}
+.boot .hid{
+    display: flex;
+}
+.show{
+    display: flex;
+    justify-content: center;
+}
+.show button{
+    background-color: #c7232f;
+    border: none;
+    color: white;
+    height: 45px;
+    width: 180px;
+    cursor: pointer;
+    margin: 40px 0 20px 0;
+
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 60px ;
+}
+section .ikonka{
+    display: flex;
+    align-content: center;
+}
+section .ikonka .inner{
+    border-radius: 100%;
+    padding: 10px;
+    background-color: rgb(48,64,104);
+    align-self: center;
+}
+section .ikonka p{
+    align-self: center;
+    margin-left: 20px;
+    color: rgb(48,64,104);
+}
+section .ikonka:hover .inner{
+    background-color: #c7232f;
+}
+section .ikonka:hover p{
+    color: #c7232f;
+    text-decoration: underline;
+}
+section{
+    display: flex;
+}
+section{
+    flex: 1;
+}
+div.email{
+    background-image: url("./../img/idk.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    height: 400px;
+
+}
+div.email >* {
+    margin: 0 20px 0 20px;
+}
+.email{
+    justify-content: center;
+    align-items:  center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.email >*{
+    margin: 40px;
+}
+.email .hh{
+    font-weight: bold;
+    font-size: 150%;
+}
+.bar   {
+    display: flex;
+}
+.bar button{
+    background-color: #c7232f;
+    border: none;
+    color: white;
+    width: 90px;
+    cursor: pointer;
+    font-size: 70%;
+}
+
+.emailInp img{
+    max-width: 30px;
+    max-height: 30px;
+    filter: brightness(0.7);
+    margin-left: 10px;
+}
+.emailInp label input{
+    border: none;
+    outline: none;
+    height: 50px;
+    font-size: 80%;
+}
+.emailInp label input::placeholder{
+    color: lightgray;
+}
+div.emailInp {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 300px;
+    border: rgba(105, 105, 105, 0.57)  solid 1px;
+    height: 50px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .mobHid {
+        display: none !important;
+    }
+    main{
+        margin: 20px 3vw 0 3vw;
+    }
+
+    .selectionBox {
+        flex-direction: column
+    }
+    div.right >* {
+        margin: 0 5px;
+    }
+    .right img {
+        width: 30px;
+        height: 30px;
+    }
+    .inputik label img{
+        width: 30px;
+        height: 30px;
+    }
+    .right{
+        display: flex;
+        align-items:  center;
+    }
+    .inputik label {
+        padding: 0;
+    }
+    .inputik {
+        border: white;
+        width: 25px;
+        height: 25px;
+    }
+    nav div p {
+        font-size: 80%;
+    }
+
+    .boots {
+        grid-template-columns: 1fr;
+        margin: 0 10%;
+    }
+
+    nav {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+
+    section {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+    .email {
+        text-align: center;
+    }
+
+
+    .email .bar{
+        width: 90%;
+    }
+    div.emailInp {
+        background-color: white;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 90%;
+        border: rgba(105, 105, 105, 0.57)  solid 1px;
+        height: 50px;
+    }
+    .emailInp label input{
+        border: none;
+        outline: none;
+        width: 80%;
+        font-size: 80%;
+    }
+    main .selectionBox div {
+        flex: 1;
+        height: 40vw;
+        background-repeat: no-repeat;
+        display: flex;
+        background-size: 100%;
+    }
+    main .selectionBox{
+        gap: 0;
+    }
+  
+
+}
+
+
+
+
+@media only screen and (min-width: 1001px) {
+    section{
+        display: flex;
+    }
+    nav{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .boots{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    footer{
+        flex-direction: row;
+    }
+    .inputik{
+        border: white;
+        border: rgba(105, 105, 105, 0.57)  solid 1px;
+    }
+}

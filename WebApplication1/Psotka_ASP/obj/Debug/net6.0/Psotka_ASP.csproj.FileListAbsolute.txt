@@ -1,0 +1,200 @@
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.json
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.staticwebassets.runtime.json
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.exe
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.deps.json
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.runtimeconfig.json
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.pdb
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.AssemblyReference.cache
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfoInputs.cache
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfo.cs
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CoreCompileInputs.cache
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cache
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cs
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\bundle\Psotka_ASP.styles.css
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\projectbundle\Psotka_ASP.bundle.scp.css
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\refint\Psotka_ASP.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.pdb
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.genruntimeconfig.cache
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\ref\Psotka_ASP.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CopyComplete
+C:\Users\ooldi\RiderProjects\WebApplication1\Psotka_ASP\bin\Debug\net6.0\BCrypt.Net-Next.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.Development.json
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.json
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.staticwebassets.runtime.json
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.exe
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.deps.json
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.runtimeconfig.json
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.pdb
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\BCrypt.Net-Next.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Humanizer.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Mono.TextTemplating.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\MySqlConnector.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.CodeDom.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Json.dll
+X:\WebApplication1\Psotka_ASP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.AssemblyReference.cache
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.GeneratedMSBuildEditorConfig.editorconfig
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfoInputs.cache
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfo.cs
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CoreCompileInputs.cache
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.MvcApplicationPartsAssemblyInfo.cache
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cache
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cs
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.build.json
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.development.json
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\bundle\Psotka_ASP.styles.css
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\projectbundle\Psotka_ASP.bundle.scp.css
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CopyComplete
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.dll
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\refint\Psotka_ASP.dll
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.pdb
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.genruntimeconfig.cache
+X:\WebApplication1\Psotka_ASP\obj\Debug\net6.0\ref\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.json
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.staticwebassets.runtime.json
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.exe
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.deps.json
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.runtimeconfig.json
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.pdb
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.AssemblyReference.cache
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfoInputs.cache
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CoreCompileInputs.cache
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cache
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\bundle\Psotka_ASP.styles.css
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\projectbundle\Psotka_ASP.bundle.scp.css
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CopyComplete
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\refint\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.pdb
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.genruntimeconfig.cache
+C:\Users\Herní Dělo\Desktop\WebApplication1\Psotka_ASP\obj\Debug\net6.0\ref\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\appsettings.json
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.staticwebassets.runtime.json
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.exe
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.deps.json
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.runtimeconfig.json
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Psotka_ASP.pdb
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.AssemblyReference.cache
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfoInputs.cache
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.AssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CoreCompileInputs.cache
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cache
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.RazorAssemblyInfo.cs
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\bundle\Psotka_ASP.styles.css
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\scopedcss\projectbundle\Psotka_ASP.bundle.scp.css
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.csproj.CopyComplete
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\refint\Psotka_ASP.dll
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.pdb
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\Psotka_ASP.genruntimeconfig.cache
+C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\obj\Debug\net6.0\ref\Psotka_ASP.dll

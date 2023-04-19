@@ -1,0 +1,148 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com/%22%3E">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;400;600;700&display=swap"
+          rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>@ViewData["Title"] - Psotka_ASP</title>
+    <link rel="stylesheet"  href="~/css/header.css"/>
+    <link rel="stylesheet"  href="~/css/footer.css"/>
+</head>
+<body>
+<header>
+    <div class="info">
+        <img class="mobHid" src="~/img/8.png" alt="">
+        <p>
+            <span class="mobHid">+420</span>
+            <a href="tel:777666555">777 666 555 </a> | <a href="mailto:info@nejlepsiboty.cz"> info@nejlepsiboty.cz </a>
+        </p>
+    </div>
+    <div class="login">
+        <img src="~/img/profile-user.png" alt="">
+        <p class="mobHid">
+          <a asp-controller="Login" asp-action="Index">
+                Přihlásit se
+            </a>
+        </p>
+    </div>
+</header>
+
+@RenderBody()
+
+<footer>
+    <div class="about">
+        <p>O NÁS</p>
+        <p class="content">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio et iure nam, quasi
+            reiciendis sed suscipit veritatis voluptatem? Aspernatur consequuntur dolores iste quam quidem soluta
+            veniam. Eius excepturi qui voluptate.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio et iure nam, quasi reiciendis sed
+            suscipit veritatis voluptatem? Aspernatur consequuntur dolores iste quam quidem soluta veniam. Eius
+            excepturi qui voluptate.
+        </p>
+            <a asp-controller="Home" asp-action="Index">
+            <img src="~/img/botybile.png" alt="">
+        </a>
+    </div>
+    <div class="nabidka">
+        <p>NAŠE NABÍDKA</p>
+        <div class="seznam">
+            <ul>
+                Dívčí
+
+                <li>
+                    <a href="#">
+                        Tenisky
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Holínky
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Sandály
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Baleríny
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Polobotky
+                    </a>
+                </li>
+            </ul>
+            <ul>
+                Chlapecké
+                <li>
+                    <a href="#">
+                        Tenisky
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Holínky
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Sandály
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Baleríny
+                    </a>
+                </li>
+                <li>
+                    <a href="#">
+                        Polobotky
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="kontakty">
+        <div class="us">
+            <p>KONTAKTUJTE NÁS</p>
+        </div>
+
+        <div class="contacts">
+            <div>
+                <img src="~/img/6.png" alt="">
+                <a href="mailto:info@nejlepsiboty.cz">
+                    <p> info@nejlepsiboty.cz</p>
+                </a>
+            </div>
+            <div>
+                <img src="~/img/8.png" alt="">
+                <a href="tel:+420777666555">
+                    <p> +420 777 666 555</p>
+                </a>
+            </div>
+            <div>
+                <a href="https://www.facebook.com">
+                    <img src="~/img/facebook.png" alt="">
+                </a>
+                <a href="https://www.instagram.com">
+                    <img src="~/img/Group%20153.png" alt="">
+                </a>
+                <a href="https://www.twitter.com">
+                    <img src="~/img/twitter.png" alt="">
+                </a>
+            </div>
+        </div>
+
+        <address>Litvínovská 600, Praha 9, 190 00</address>
+    </div>
+</footer>
+</body>
+</html>

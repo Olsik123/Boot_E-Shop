@@ -1,0 +1,24 @@
+@{
+    Layout = "_Layout";
+}
+<link rel="stylesheet" href="~/css/selection.css">
+<main>
+    @await Component.InvokeAsync("NavComponent")
+    <div class="boots">
+        @foreach (TbBoot item in ViewBag.Boots)
+        {
+            <a asp-controller="Product" asp-action="Index" asp-route-id="@item.BootId">
+                <div class="boot">
+                    <img src="~/@item.TbPhotos.FirstOrDefault().Path" alt="">
+                    <p>@item.Name</p>
+                    <div class="hid">
+                        <p class="price">
+                            Od @item.TbVariations.Min(x=>x.Price) Kč
+                        </p>
+                        <img class="hide" src="img/kosik.png" alt="">
+                    </div>
+                </div>
+            </a>
+        }
+    </div>
+</main>

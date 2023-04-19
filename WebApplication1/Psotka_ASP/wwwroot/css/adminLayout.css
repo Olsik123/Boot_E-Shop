@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navigation{
+    color: white;
+    display: flex;
+    height: 150px;
+    background: rgb(48,64,104);
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.navigation img{
+    margin: 0 90px;
+}
+.navigation div{
+    background:  #c7232f;
+    height: 50px;
+    flex: 2;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 200%;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+
+}
+a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+.navigation div p{
+    text-align: center;
+    margin: 0 auto;
+}

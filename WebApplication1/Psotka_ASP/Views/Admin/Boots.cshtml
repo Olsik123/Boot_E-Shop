@@ -1,0 +1,15 @@
+@{
+    Layout = "_AdminLayout";
+}
+<link rel="stylesheet" href="~/css/adminBoots.css">
+<div class="boots">
+    @foreach (TbBoot item in ViewBag.Boots)
+    {
+        <a asp-controller="Admin" asp-action="EditBoot" asp-route-id="@item.BootId">
+            <div class="boot">
+                <img src="~/@item.TbPhotos.FirstOrDefault().Path" alt="">
+                <p>@item.Name</p>
+            </div>
+        </a>
+    }
+</div>

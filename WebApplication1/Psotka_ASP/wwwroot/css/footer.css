@@ -1,0 +1,97 @@
+footer {
+    display: flex;
+    background-color: #c7232f;
+    color: white;
+    font-weight: lighter;
+}
+.about{
+    flex: 1;
+    padding:0 10vw ;
+    background-color: #c7232f;
+}
+.about .content{
+    text-align: justify;
+    font-size: 75%;
+}
+.about p{
+    margin: 45px 0 20px 0;
+    background-color: #c7232f;
+}
+.nabidka{
+    flex: 2;
+    background-color: #c7232f;
+}
+.nabidka .seznam{
+    display: flex;
+}
+.nabidka .seznam ul{
+    flex: 1;
+    font-weight: bold;
+    padding-bottom: 40px;
+}
+.nabidka .seznam li{
+    font-weight: normal;
+    padding: 8px;
+    list-style: circle;
+    list-style-position: inside;
+    font-size: 70%;
+}
+.nabidka p{
+    margin: 45px 0;
+}
+
+
+.kontakty{
+    background-color:rgb(48,64,104) ;
+    flex: 1;
+    font-size: 80%;
+    padding: 45px 10vw 0 2vw;
+}
+.kontakty .us{
+    padding-bottom: 40px;
+}
+.kontakty address{
+    margin-top: 50px;
+}
+.kontakty .contacts div{
+    display: flex;
+    padding-bottom: 20px;
+    align-content: center;
+}
+.kontakty .contacts div *{
+    margin-right: 20px;
+}
+@media only screen and (max-width: 1000px) {
+    .mobHid {
+        display: none !important;
+    }
+    .about{
+        padding-left: 20px;
+    }
+    .ikonka {
+        margin-top: 15px;
+    }
+    footer {
+        flex-direction: column;
+    }
+    .nabidka {
+        padding-left: 20px;
+    }
+    .kontakty {
+        padding-bottom: 50px;
+    }
+    .ikonka p {
+        font-size: 80%;
+    }
+    .kontakty{
+        padding-left: 15px;
+    }
+}
+
+@media only screen and (min-width: 1001px) {
+
+    footer{
+        flex-direction: row;
+    }
+
+}

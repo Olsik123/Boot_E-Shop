@@ -1,0 +1,811 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    font-size: 150%;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+main {
+    margin: 20px 10vw 0 10vw;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+button {
+    padding: 5px;
+    height: 40px;
+   margin: 0 auto;
+}
+
+.ostra{
+    border: none;
+    border-radius: 100%;
+}
+div.up {
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+div.right {
+    display: flex;
+    align-content: center;
+}
+
+div.right > * {
+    margin: 0 20px 0 20px;
+}
+
+.inputik img {
+    width: 24px;
+    height: 24px;
+}
+
+.inputik label {
+    display: flex;
+    padding: 5px;
+    gap: 5px;
+}
+
+.inputik label input {
+    border: none;
+    outline: none;
+}
+
+div.inputik {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+nav div {
+
+    color: rgba(105, 105, 105, 0.57);
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+}
+
+nav div img {
+    height: 30px;
+    margin-left: 8px;
+}
+
+nav div:hover {
+    border: #c7232f solid 1px;
+    color: #c7232f;
+    font-weight: bolder;
+}
+
+.navig a {
+    color: #c7232f;
+}
+
+.navig {
+    margin: 15px 0;
+    color: #c7232f;
+}
+
+
+.navig a:hover {
+    color: rgb(48, 64, 104);
+    text-decoration: underline;
+}
+
+h1 {
+    color: rgb(48, 64, 104);
+}
+
+.line2 {
+    margin-bottom: 40px;
+    display: flex;
+    align-content: center;
+}
+
+.line2 div {
+    flex: 12;
+    height: 1px;
+    align-self: center;
+    background-color: rgb(180, 190, 213);
+}
+
+.Buy {
+    color: rgb(48, 64, 104);
+
+}
+
+.measurments div {
+    flex: 1;
+}
+.measurments {
+    color: #304068;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.measurments div:nth-child(2) > p {
+    margin-bottom: 8px;
+}
+
+.measurments div {
+    flex: 1;
+}
+
+.measurments > div > p:first-child {
+    font-weight: 700;
+}
+
+.measurments .colors {
+    display: flex;
+    gap: 10px;
+    width: min-content;
+}
+
+.colors input {
+    display: none;
+}
+
+.colors label {
+    cursor: pointer;
+}
+
+.colors div {
+    height: 36px;
+    width: 36px;
+    border-radius: 100%;
+    border: 4px solid #b4bed5;
+}
+
+.colors label input:checked +  button > div {
+    border: 4px solid #c7232f;
+}
+
+.colors div:hover {
+    border: 4px solid #c7232f;
+}
+
+.measurments .size-selection {
+    display: flex;
+    gap: 10px;
+    width: min-content;
+}
+
+
+.size-selection label {
+    cursor: pointer;
+    user-select: none;
+}
+
+.size-selection input {
+    display: none;
+}
+
+
+.size-selection label input:checked + p {
+    color: #c7232f;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-right: -2px;
+}
+
+
+.sizes {
+    display: flex;
+    align-content: flex-start;
+    margin-top: 20px;
+}
+
+.sizes p {
+    margin-right: 2%;
+}
+
+
+.crossed {
+    text-decoration: line-through;
+    color: rgb(180, 190, 213);
+    margin-top: 20px;
+}
+.priceee{
+    color: #c7232f;
+    margin: 10px;
+    font-size: 150%;
+    font-weight: 700;
+}
+.sleva{
+    color: #c7232f;
+    font-size: 120%;
+    margin-top: 10px;
+}
+.l{
+    margin: 10px;
+}
+.pricexbutton {
+    display: flex;
+    justify-content: space-between;
+}
+
+.priceMain {
+    color: #c7232f;
+    font-size: 250%
+}
+
+.cart {
+    background-color: #c7232f;
+    border: none;
+    color: white;
+    height: 70px;
+    width: 200px;
+    font-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    cursor: pointer;
+}
+.cart img{
+    filter: brightness(100);
+}
+
+h2 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.description {
+    color: rgb(48, 64, 104);
+    overflow-wrap: anywhere;
+}
+
+.description p {
+    text-align: justify;
+}
+
+table {
+    margin: 20px 0;
+    width: 100%;
+    border-spacing: 0;
+}
+
+table th {
+    background-color: rgb(48, 64, 104);
+    color: white;
+    padding: 20px 5px;
+}
+
+table * td {
+    padding: 20px 5px;
+}
+
+table tbody tr:nth-child(2n+1) {
+    background-color: rgb(214, 217, 224);
+    color: rgb(48, 64, 104);
+}
+
+table tbody tr:nth-child(2n) {
+    background-color: white;
+    color: rgb(48, 64, 104);
+}
+
+.mainImg {
+    width: 100%;
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+}
+.x{
+    cursor: not-allowed;
+    background-color: #d05f67;;
+}
+.abovePrice{
+    margin-left: 10px;
+}
+#notification{
+    position: fixed;
+    text-align: center;
+    left: 40%;
+    bottom: 5px;
+    width: 500px;
+    border: green solid 1px;
+    display: none;
+    background-color: #58ec58;
+}
+.tupy{
+    border: none;
+    background-color: transparent;
+    font-size: 100%;
+    font-family: 'Libre Franklin', sans-serif;
+    cursor: pointer;
+    color: #304068;
+}
+.size-selection label input:checked + button p {
+    color: #c7232f;
+    font-weight: bolder;
+    text-decoration: underline;
+    margin-right: -2px;
+}
+.underImg {
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+
+.underImg div {
+    flex: 1;
+    display: flex;
+    padding-right: 2px;
+}
+.underImg div img {
+    aspect-ratio: 1/1;
+}
+
+.sideImg {
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    max-width: 100%;
+}
+
+
+.line {
+    margin: 60px 0;
+    display: flex;
+    align-content: center;
+
+}
+
+.line img {
+    flex: 1;
+    height: 45px;
+    width: 45px;
+}
+
+.line div {
+    flex: 12;
+    height: 1px;
+    align-self: center;
+    background-color: rgb(180, 190, 213);
+}
+
+.bootHead {
+    color: #c7232f;
+    font-size: 180%;
+    text-align: center;
+    margin: 30px 0;
+}
+
+.bootHead span {
+    color: rgb(48, 64, 104);
+    font-weight: bold;
+
+}
+
+.boots {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.boots .boot {
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    padding: 0px 20px;
+    cursor: pointer;
+
+}
+
+.boots .boot:hover img {
+    visibility: unset;
+}
+
+.boots .boot:hover {
+    padding: 0px 20px;
+    border: #c7232f solid 2px;
+    font-weight: bolder;
+}
+
+.boot p {
+    color: rgb(48, 64, 104);
+    height: 40px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.boot .price {
+    font-weight: bolder;
+    color: #c7232f;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    flex: 1;
+}
+
+.boot .price span {
+    color: rgba(105, 105, 105, 0.57);
+    font-weight: normal;
+    text-decoration: line-through;
+}
+
+.boots .boot img {
+    width: 100%;
+}
+
+.hid img {
+    flex: 1;
+    max-width: 40px;
+    max-height: 40px;
+    margin-bottom: 20px;
+    visibility: hidden;
+}
+
+.boot .hid {
+    display: flex;
+}
+
+.show {
+    display: flex;
+    justify-content: center;
+}
+
+.show button {
+    background-color: #c7232f;
+    border: none;
+    color: white;
+    height: 45px;
+    width: 180px;
+    cursor: pointer;
+    margin: 40px 0 20px 0;
+
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin: 60px 0;
+}
+
+section .ikonka {
+    display: flex;
+    align-content: center;
+}
+
+section .ikonka .inner {
+    border-radius: 100%;
+    padding: 10px;
+    background-color: rgb(48, 64, 104);
+    align-self: center;
+}
+
+section .ikonka p {
+    align-self: center;
+    margin-left: 20px;
+    color: rgb(48, 64, 104);
+}
+
+section .ikonka:hover .inner {
+    background-color: #c7232f;
+}
+
+section .ikonka:hover p {
+    color: #c7232f;
+    text-decoration: underline;
+}
+
+section {
+    display: flex;
+}
+
+section {
+    flex: 1;
+}
+
+div.email {
+    background-image: url("./../img/idk.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    height: 400px;
+
+}
+
+div.email > * {
+    margin: 0 20px 0 20px;
+}
+
+.email {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.email > * {
+    margin: 40px;
+}
+
+.email .hh {
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.bar {
+    display: flex;
+}
+
+.bar button {
+    background-color: #c7232f;
+    border: none;
+    color: white;
+    width: 90px;
+    cursor: pointer;
+    font-size: 70%;
+}
+
+.emailInp img {
+    max-width: 30px;
+    max-height: 30px;
+    filter: brightness(0.7);
+    margin-left: 10px;
+}
+
+.emailInp label input {
+    border: none;
+    outline: none;
+    height: 50px;
+    font-size: 80%;
+}
+
+.emailInp label input::placeholder {
+    color: lightgray;
+}
+
+div.emailInp {
+    background-color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 300px;
+    border: rgba(105, 105, 105, 0.57) solid 1px;
+    height: 50px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+    .mobHid {
+        display: none !important;
+    }
+
+    main {
+        margin: 20px 3vw 0 3vw;
+    }
+
+    .selectionBox {
+        flex-direction: column
+    }
+
+    div.right > * {
+        margin: 0 5px;
+    }
+
+    .right img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .inputik label img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .right {
+        display: flex;
+        align-items: center;
+    }
+
+    .inputik label {
+        padding: 0;
+    }
+
+    .inputik {
+        border: white;
+        width: 25px;
+        height: 25px;
+    }
+
+    nav div p {
+        font-size: 80%;
+    }
+
+    .boots {
+        grid-template-columns: 1fr;
+        margin: 0 10%;
+    }
+
+    nav {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+
+    section {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+
+
+    .email {
+        text-align: center;
+    }
+
+    .email .bar {
+        width: 90%;
+    }
+
+    div.emailInp {
+        background-color: white;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        width: 90%;
+        border: rgba(105, 105, 105, 0.57) solid 1px;
+        height: 50px;
+    }
+
+    .emailInp label input {
+        border: none;
+        outline: none;
+        width: 80%;
+        font-size: 80%;
+    }
+
+    main .selectionBox div {
+        flex: 1;
+        height: 40vw;
+        background-repeat: no-repeat;
+        display: flex;
+        background-size: 100%;
+    }
+
+    main .selectionBox {
+        gap: 0;
+    }
+
+}
+
+
+@media only screen and (min-width: 1001px) {
+    .compHid {
+        display: none !important;
+    }
+
+    section {
+        display: flex;
+    }
+
+    nav {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+
+    .aboveInf {
+        display: flex;
+        gap: 40px;
+    }
+
+    .images {
+        flex: 1;
+    }
+
+    .sideImg {
+        background: none;
+    }
+    .upperIMG{
+        border: #4d4d4d solid 1px;
+        display: flex;
+        justify-content: center;
+    }
+    .underImg div img{
+        max-width: 100%;
+    }
+    .underImg div {
+        border: #4d4d4d solid 1px;
+    }
+    .underImg > div:hover {
+        background-color: rgba(255, 0, 0, 0.44);
+    }
+
+    .sideImg:hover {
+        filter: opacity(50%);
+
+    }
+
+    .Buy {
+        flex: 1;
+    }
+
+    .upName {
+        display: flex;
+        justify-content: space-between;
+        gap: 50px;
+    }
+
+    .upName h1 {
+        flex: 6;
+        font-size: 200%;
+    }
+
+    .upName img {
+        flex: 1;
+        height: 50px;
+    }
+    .measurments {
+        flex-direction: row;
+
+    }
+
+
+    .popis {
+        color: rgb(180, 190, 213);
+        margin: 80px 0;
+        font-size: 80%;
+    }
+
+    .cart {
+        width: 300px;
+        justify-content: space-around;
+        margin-right: 5vw;
+    }
+
+    .inf {
+        display: flex;
+        gap: 20px;
+    }
+
+    .inf .description {
+        flex: 2;
+    }
+
+    .inf .tableInf {
+        flex: 1;
+    }
+
+    .inf .description p {
+        font-size: 80%;
+    }
+
+    .inf .description h2 {
+        text-align: left;
+    }
+
+    table tbody tr td {
+        width: 50%;
+    }
+
+    .boots {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+
+    .inputik {
+        border: white;
+        border: rgba(105, 105, 105, 0.57) solid 1px;
+    }
+}

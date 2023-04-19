@@ -1,0 +1,191 @@
+@using System.Globalization
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@model WebApplication1.Models.ViewModel.CustomerModel
+@{
+    ViewData["Title"] = "Cart";
+}
+<link rel="stylesheet" href="~/css/cartStyle.css"/>
+<main>
+
+    <p class="navig"><a asp-controller="Home" asp-action="Index">Domů</a> > <a href="#">Košík</a></p>
+    <h1>Košík</h1>
+    <div class="formular">
+        <form action="">
+            <div class="fotDec">
+                <table>
+                    <thead>
+                    <tr>
+                        <td>Fotka</td>
+                        <td>Název</td>
+                        <td>Variace</td>
+                        <td>Cena</td>
+                        <td>Počet</td>
+                        <td>Celková cena</td>
+                        <td>Akce</td>
+                    </tr>
+
+                    </thead>
+                    <tbody>
+                    @foreach (var item in ViewBag.Cart)
+                    {
+                        <tr>
+                            <td>
+                                <img src="~/@item.Key.Boot.TbPhotos[0].Path" alt="">
+                            </td>
+                            <td>
+                                  @item.Key.Boot.Name
+                            </td>
+                            <td>
+                                <div class="lolz">
+                                    <p>
+                                           @item.Key.Size
+                                    </p> 
+                                    <p>
+                                            @item.Key.Color.Color
+                                    </p>
+                                </div>
+                              
+                            </td>
+                            <td>@(item.Key.Price.ToString("n0", new CultureInfo("nb-NO"))) Kč</td>
+                            <td>@item.Value</td>
+                            <td>@((item.Key.Price * item.Value).ToString("n0", new CultureInfo("nb-NO"))) Kč</td>
+                            <td>
+                                <div class="buts">
+                                    <button class="add" asp-action="AddToCart" asp-route-id=@item.Key.VariationId>
+                                        <img src="~/img/Add.png" alt="">
+                                    </button>
+                                    <button class="minus" asp-action="TakewayFromCart" asp-route-id=@item.Key.VariationId>
+                                        <img src="~/img/Minus.png" alt="">
+                                    </button>
+                                </div>
+                                <div class="rems">
+                                    <button class="remove" asp-action="DeleteToCart" asp-route-id=@item.Key.VariationId>
+                                        <img src="~/img/Delete.png" alt="">
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
+                <div class="subtotal">
+                    <div>
+                        <h2>Mezisoučet</h2>
+                    </div>
+                    <div>
+                        <h1>@(this.ViewBag.Subtotal.ToString("n0", new CultureInfo("nb-NO"))) Kč</h1>
+                    </div>
+                </div>
+            </div>
+        </form>
+        <div>
+            <form action="">
+                <div class="nameSurname">
+                    <div class="name">
+                        <label>
+                            Jméno
+                            <input class="inp" type="text" asp-for="Name"
+                                   required
+                                   placeholder="Zadejte své jméno...">
+                        </label>
+                    </div>
+                    <div class="surname">
+                        <label>
+                            Příjmení
+                            <input class="inp" type="text" asp-for="Surname"
+                                   required
+                                   placeholder="Zadejte své příjmení...">
+                        </label>
+                    </div>
+                </div>
+
+                <div>
+                    <br>
+                    <label>
+                        E-mail
+                        <input class="inp" type="email" asp-for="Email"
+                               required
+                               placeholder="Zadejte svůj e-mail...">
+                        <p class="email">Zadaný e-mail nemá správný formát!</p>
+                    </label>
+                </div>
+                <div>
+                    <br>
+                    <label>
+                        Adresa
+                        <input class="inp" type="text" asp-for="Address"
+                               required
+                               placeholder="Zadejte svoji adresu...">
+                    </label>
+                </div>
+                <div class="nameSurname">
+                    <div class="name">
+                        <br>
+                        <label>
+                            PSČ
+                            <input class="inp" type="number" asp-for="PostalCode"
+                                   max="99999"
+                                   min="10000"
+                                   required
+                                   placeholder="Zadejte svoje PSČ...">
+                        </label>
+                    </div>
+                    <div class="surname">
+                        <br>
+                        <label>
+                            Telefon
+                            <input class="inp" type="tel" asp-for="Phone"
+                                   placeholder="Zadejte svůj telefon...">
+                        </label>
+                    </div>
+                </div>
+                <div>
+                    <br>
+                    <label>
+                        Země
+                        <select required asp-for="Country">
+                            <option value="" selected disabled>Vyber zemi</option>
+                            <option value="Česká Republika">Česká Republika</option>
+                            <option value="Slovensko">Slovensko</option>
+                        </select>
+                    </label>
+                </div>
+                <p class="platba">Způsob platby</p>
+                <div class="radios">
+
+                    <div>
+                        <label class="rad">
+                            <input type="radio" name="pay" value="1" checked>
+                            <p>Hotově</p>
+                        </label>
+                    </div>
+                    <div>
+                        <label class="rad righty">
+                            <input type="radio" name="pay" value="2">
+                            <p>Převodem</p>
+                        </label>
+                    </div>
+                    <div>
+                        <label class="rad">
+                            <input type="radio" name="pay" value="3">
+                            <p>Kartou</p>
+                        </label>
+                    </div>
+                </div>
+                <div class="buttons">
+                    <a asp-action="Index" asp-controller="Home">
+                        <button class="leftB" disabled>
+                            <img src="~/img2/sipka.png" alt="">
+                            <p>Zpět</p>
+                        </button>
+                    </a>
+                    <button class="rightB" asp-action="MakeOrder">
+                        <img src="~/img2/sipka.png" alt="">
+                        <p>Pokračovat</p>
+                    </button>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</main>

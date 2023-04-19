@@ -1,0 +1,335 @@
+@using Microsoft.EntityFrameworkCore.Storage
+@using System.Globalization
+@model BootModel
+
+@{
+    ViewData["Title"] = "Product";
+}
+<link rel="stylesheet" href="~/css/productstyle.css"/>
+<div id="notification" >Shoe added to cart!</div>
+<form action="" method="post">
+<main>
+@await Component.InvokeAsync("NavComponent")
+<p class="navig"><a href="#">Domů</a> > <a href="#">Dívčí boty</a> > <a href="#">Tenisky</a></p>
+<input hidden asp-for="BootId">
+<input hidden asp-for="@Model.PickedColorId" value="@Model.PickedColorId">
+<input hidden asp-for="@Model.PickedVariationId" value="@Model.PickedVariationId">
+@for (var index = 0; index < @Model.Variations.Count; index++)
+{
+    <input hidden asp-for="@Model.Variations[index].InStock" value="@Model.Variations[index].InStock">
+    <input hidden asp-for="@Model.Variations[index].Discount" value="@Model.Variations[index].Discount">
+    <input hidden asp-for="@Model.Variations[index].Dph" value="@Model.Variations[index].Dph">
+    <input hidden asp-for="@Model.Variations[index].Price" value="@Model.Variations[index].Price">
+    <input hidden asp-for="@Model.Variations[index].Size" value="@Model.Variations[index].Size">
+    <input hidden asp-for="@Model.Variations[index].BootId" value="@Model.Variations[index].BootId">
+    <input hidden asp-for="@Model.Variations[index].ColorId" value="@Model.Variations[index].ColorId">
+    <input hidden asp-for="@Model.Variations[index].VariationId" value="@Model.Variations[index].VariationId">
+}
+<input hidden class="input" asp-for="Name">
+<input hidden class="input" asp-for="Material">
+<input hidden class="input" asp-for="Code">
+<input hidden class="input" asp-for="LongDescription">
+<input hidden class="input" asp-for="ShortDescription">
+<input hidden class="input" asp-for="Image">
+@for (var index = 0; index < @Model.Categories.Count; index++)
+{
+    <input hidden asp-for="@Model.Categories[index].Left" value="@Model.Categories[index].Left">
+    <input hidden asp-for="@Model.Categories[index].Right" value="@Model.Categories[index].Right">
+    <input hidden asp-for="@Model.Categories[index].Name" value="@Model.Categories[index].Name">
+    <input hidden asp-for="@Model.Categories[index].CategoryId" value="@Model.Categories[index].CategoryId">
+}
+@for (var index = 0; index < @Model.NonCategories.Count; index++)
+{
+    <input hidden asp-for="@Model.NonCategories[index].Left" value="@Model.NonCategories[index].Left">
+    <input hidden asp-for="@Model.NonCategories[index].Right" value="@Model.NonCategories[index].Right">
+    <input hidden asp-for="@Model.NonCategories[index].Name" value="@Model.NonCategories[index].Name">
+    <input hidden asp-for="@Model.NonCategories[index].CategoryId" value="@Model.NonCategories[index].CategoryId">
+}
+@for (var index = 0; index < @Model.Photos.Count; index++)
+{
+    <input hidden asp-for="@Model.Photos[index].Path" value="@Model.Photos[index].Path">
+    <input hidden asp-for="@Model.Photos[index].Boot" value="@Model.Photos[index].Boot">
+    <input hidden asp-for="@Model.Photos[index].BootId" value="@Model.Photos[index].BootId">
+    <input hidden asp-for="@Model.Photos[index].PhotoId" value="@Model.Photos[index].PhotoId">
+}
+@for (var index = 0; index < @Model.Colors.Count; index++)
+{
+    <input hidden asp-for="@Model.Colors[index].Color" value="@Model.Colors[index].Color">
+    <input hidden asp-for="@Model.Colors[index].Hexadecimal" value="@Model.Colors[index].Hexadecimal">
+    <input hidden asp-for="@Model.Colors[index].ColorId" value="@Model.Colors[index].ColorId">
+}
+
+<div class="aboveInf">
+    <div class="images">
+        <div class="upperIMG">
+            <img src="~/@Model.Photos[0].Path" alt="">
+        </div>
+        <div class="underImg">
+            <div>
+                <img src="~/@Model.Photos[1].Path" alt="">
+            </div>
+            <div>
+                <img src="~/@Model.Photos[2].Path" alt="">
+            </div>
+            <div>
+                <img src="~/@Model.Photos[3].Path" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="Buy">
+        <div class="upName">
+            <h1 class="Name">
+                @Model.Name
+            </h1>
+            <img class="mobHid" src="~/img2/logo.webp" alt="">
+        </div>
+        <div class="popis mobHid">
+            <p>
+                @Model.ShortDescription
+            </p>
+        </div>
+        <div class="line2">
+            <div></div>
+        </div>
+        <div class="measurments">
+            <div>
+                <p>Barva</p>
+                <div class="colors">
+                    @foreach (var color in Model.Colors.Distinct())
+                    {
+                        <label>
+                            @if (color.ColorId == Model.PickedColorId)
+                            {
+                                <input type="radio" name="color" checked>
+                            }
+                            else
+                            {
+                                <input type="radio" name="color">
+                            }
+                            <button class="ostra" asp-action="ProductChooseColor" asp-route-id="@color.ColorId">
+                                <div style="background-color: @color.Hexadecimal">
+                                </div>
+                            </button>
+                        </label>
+                    }
+                </div>
+            </div>
+            <div>
+                <p>Velikost</p>
+                <div class="size-selection">
+                    @foreach (var var in Model.Variations.Where(X => X.ColorId == Model.PickedColorId))
+                    {
+                        <label>
+                            @if (var.VariationId == Model.PickedVariationId)
+                            {
+                                <input type="radio" name="size" checked>
+                            }
+                            else
+                            {
+                                <input type="radio" name="size">
+                            }
+                            <button class="tupy" asp-action="ProductChooseSize" asp-route-id="@var.VariationId">
+                                <p>@var.Size</p>
+                            </button>
+                        </label>
+                    }
+
+                </div>
+            </div>
+        </div>
+        <div class="line">
+            <div></div>
+        </div>
+        <div class="abovePrice">
+            @if (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).InStock != 0)
+            {
+                <h1>Skladem</h1>
+                <p class="ins">Počet kusů: @Model.Variations.First(x => x.VariationId == Model.PickedVariationId).InStock </p>
+            }
+            else
+            {
+                <h1>Není skladem</h1>
+            }
+
+
+        </div>
+        @if (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Discount != 0)
+        {
+            <div class="l">
+                <p class="crossed">Cena předtím: @((Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Price).ToString("n0", new CultureInfo("nb-NO"))) Kč</p>
+                <p class="sleva"> Sleva @Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Discount% </p>
+            </div>
+        }
+        <div class="priceee">
+            <p>@((Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Price - (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Price * (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Discount * 0.01m))).ToString("n0", new CultureInfo("nb-NO"))) Kč</p>
+
+
+        </div>
+        <div class="l">
+            <p>Cena bez DPH: @(((Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Price - (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Price * (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Discount * 0.01m))) - ((Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Price - (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Price * (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Discount * 0.01m))) * (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).Dph * 0.01m))).ToString("n0", new CultureInfo("nb-NO"))) Kč</p>
+        </div>
+
+
+        <div class="pricexbutton">
+            <div>
+
+            </div>
+            @if (Model.Variations.First(x => x.VariationId == Model.PickedVariationId).InStock != 0)
+            {
+                <div class="mobHid">
+                    <button class="cart" asp-action="ProductAddToCart" asp-route-id="@Model.PickedVariationId" id="add-to-cart-button">
+                        <img src="~/img/kosik.png" alt="">
+                        <p>Přidat do košíku</p>
+                    </button>
+                </div>
+            }
+            else
+            {
+                <div class="mobHid">
+                    <button class="cart x" disabled>
+                        <img src="~/img/kosik.png" alt="">
+                        <p>Přidat do košíku</p>
+                    </button>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<div class="inf">
+    <div class="description">
+        <h2>
+            Informace o produktu
+        </h2>
+        <p>
+            @Model.LongDescription
+        </p>
+    </div>
+    <div class="tableInf">
+        <table>
+            <thead>
+            <tr>
+                <th colspan="2">Parametry produktu</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                    <h4>Barvy</h4>
+                </td>
+                <td>
+                    @string.Join(", ", Model.Colors.Select(x => x.Color))
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>Druh</h4>
+                </td>
+                <td>
+                    @string.Join(", ", Model.Categories.Select(x => x.Name))
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>Materiál</h4>
+                </td>
+                <td>@Model.Material</td>
+            </tr>
+            <tr>
+                <td>
+                    <h4>Kód</h4>
+                </td>
+                <td>@Model.Code</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="line mobHid">
+    <div></div>
+    <img src="~/img/Group%20295.png" alt="">
+    <div></div>
+</div>
+<p class="bootHead">Mohlo&nbsp;by&nbsp;se <br class="compHid"><span>Vám&nbsp;líbit </span></p>
+<div class="boots">
+    @foreach (TbBoot item in ViewBag.Boots)
+    {
+        <a asp-controller="Product" asp-action="Index" asp-route-id="@item.BootId">
+            <div class="boot">
+                <img src="~/@item.TbPhotos.FirstOrDefault().Path" alt="">
+                <p>@item.Name</p>
+                <div class="hid">
+                    <p class="price">
+                        Od @item.TbVariations.Min(x => x.Price) Kč
+                    </p>
+                    <img class="hide" src="img/kosik.png" alt="">
+                </div>
+            </div>
+        </a>
+    }
+</div>
+<div class="line">
+    <div></div>
+    <img src="~/img/Group%20295.png" alt="">
+    <div></div>
+</div>
+
+<section>
+    <a href="#">
+        <div class="ikonka">
+            <div class="inner">
+                <img src="~/img/Group%20195.svg" alt="">
+            </div>
+            <p>VŠE MÁME SKLADEM </p>
+        </div>
+    </a>
+    <a href="#">
+        <div class="ikonka">
+            <div class="inner">
+                <img src="~/img/Group%20196.svg" alt="">
+            </div>
+            <p>DOPRAVA ZDARMA</p>
+        </div>
+    </a>
+    <a href="#">
+        <div class="ikonka">
+            <div class="inner">
+                <img src="~/img/Group%20293.svg" alt="">
+            </div>
+            <p>JAK MĚŘIT VELIKOSTI</p>
+        </div>
+    </a>
+</section>
+</main>
+</form>
+<div class="email">
+    <p class="hh">Nezmeškejte nové a výhodné akce</p>
+    <p>Zadejte svůj e-mail a obratem vám zašleme PDF s inspirací zdarma.</p>
+    <form action="newsletter.php" class="bar">
+        <div class="emailInp">
+            <label>
+                <img src="~/img/6.svg" alt="">
+                <input required placeholder="Zadejte svůj email..." type="email" name="m">
+            </label>
+        </div>
+        <button> přihlásit</button>
+    </form>
+</div>
+<script>
+   window.onload = function(){
+     document.getElementById("add-to-cart-button").addEventListener("click", function(){
+       var notification = document.getElementById("notification");
+       notification.style.display = "block";
+       setTimeout(function(){
+         location.reload();
+       }, 2000);
+     });
+   }
+  document.addEventListener("DOMContentLoaded", function (event) {
+    let scrollpos = localStorage.getItem("scrollpos");
+    if (scrollpos) window.scrollTo(0, scrollpos);
+  });
+
+  window.onscroll = function (e) {
+    localStorage.setItem("scrollpos", window.scrollY);
+  };
+</script>

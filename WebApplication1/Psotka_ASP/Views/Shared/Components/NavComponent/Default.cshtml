@@ -1,0 +1,52 @@
+
+@{
+    Layout = null;
+}
+<link rel="stylesheet" href="css/navComponent.css">
+<div class="bar1">
+    <div class="up">
+        <a asp-controller="Home" asp-action="Index">
+            <img src="~/img/Group%204.png" alt="">
+        </a>
+        <div class="right">
+            <div class="inputik">
+                <form action="search.php">
+                    <label>
+                        <img src="~/img/loupe.png" alt="">
+                        <input class="mobHid" placeholder="Vyhledat zboží..." type="text" name="m">
+                    </label>
+                </form>
+            </div>
+            <a asp-controller="Cart" asp-action="Index">
+                <img src="~/img/kosik.png" alt="">
+            </a>
+        </div>
+    </div>
+    <nav>
+        <a asp-controller="Selection" asp-action="Index" asp-route-cat="m">
+            <div>
+                <p>Chlapecké</p> <img src="~/img/Group%20169.png" alt="">
+            </div>
+        </a>
+        <a asp-controller="Selection" asp-action="Index" asp-route-cat="f">
+            <div>
+                <p>Dívčí </p><img src="~/img/Group%20171.png" alt="">
+            </div>
+        </a>
+        <a asp-controller="Selection" asp-action="Index">
+            <div>
+                <p>Doplňky</p>
+            </div>
+        </a>
+        <a asp-controller="Selection" asp-action="Index">
+            <div>
+                <p>Ostatní</p>
+            </div>
+        </a>
+        <a href="#">
+            <div class="mobHid">
+                <p>Kontakt</p>
+            </div>
+        </a>
+    </nav>
+</div>

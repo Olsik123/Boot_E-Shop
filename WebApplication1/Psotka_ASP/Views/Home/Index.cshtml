@@ -1,0 +1,123 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<link rel="stylesheet"  href="~/css/homestyle.css"/>
+<main>
+    @await Component.InvokeAsync("NavComponent")
+    <div class="prepinaci mobHid">
+        <div class="nohy">
+            <div class="txtVNohy">
+                <p class="upper">NOVÁ DÍVČÍ KOLEKCE <br> ŠETRNÁ K DĚTSKÝM NOHÁM</p>
+                <p class="bot">NEJEN DO MĚSTA, ALE I DO PŘÍRODY</p>
+                <a href="#">
+                    <button>zobrazit produkty</button>
+                </a>
+            </div>
+            <div class="kulicky">
+                <img src="~/img/current.png" alt="">
+                <img src="~/img/empty.png" alt="">
+                <img src="~/img/empty.png" alt="">
+            </div>
+        </div>
+    </div>
+    <div class="selectionBox">
+
+
+        <div class="male">
+            <p>KLUČÍČÍ BOTY</p>
+            <div>
+            </div>
+        </div>
+
+        <div class="female">
+            <p>DÍVČÍ BOTY</p>
+            <div>
+            </div>
+        </div>
+
+        <div class="how">
+            <div>
+                <p>JAK SPRÁVNĚ VYBRAT?</p>
+            </div>
+            <div>
+            </div>
+        </div>
+
+    </div>
+    <div class="line">
+        <div></div>
+        <img src="~/img/Group%20295.png" alt="">
+        <div></div>
+    </div>
+    <p class="bootHead">Nejnovější kousky <span>v&nbsp;naší&nbsp;nabídce </span></p>
+    <div class="boots">
+        @foreach (TbBoot item in ViewBag.Boots)
+        {
+            <a asp-controller="Product" asp-action="Index" asp-route-id="@item.BootId">
+                <div class="boot">
+                    <img src="~/@item.TbPhotos.FirstOrDefault().Path" alt="">
+                    <p>@item.Name</p>
+                    <div class="hid">
+                        <p class="price">
+                            Od @item.TbVariations.Min(x=>x.Price) Kč
+                        </p>
+                        <img class="hide" src="img/kosik.png" alt="">
+                    </div>
+                </div>
+            </a>
+        }
+    </div>
+
+    <div class="show">
+        <a asp-controller="Selection" asp-action="Index">
+            <button>zobrazit celou nabídku</button>
+        </a>
+    </div>
+    <div class="line">
+        <div></div>
+        <img src="~/img/Group%20295.png" alt="">
+        <div></div>
+    </div>
+
+    <section>
+        <a href="#">
+            <div class="ikonka">
+                <div class="inner">
+                    <img src="~/img/Group%20195.png" alt="">
+                </div>
+                <p>VŠE MÁME SKLADEM </p>
+            </div>
+        </a>
+        <a href="#">
+            <div class="ikonka">
+                <div class="inner">
+                    <img src="~/img/Group%20196.png" alt="">
+                </div>
+                <p>DOPRAVA ZDARMA</p>
+            </div>
+        </a>
+        <a href="#">
+            <div class="ikonka">
+                <div class="inner">
+                    <img src="~/img/Group%20293.png" alt="">
+                </div>
+                <p>JAK MĚŘIT VELIKOSTI</p>
+            </div>
+        </a>
+    </section>
+</main>
+
+<div class="email">
+    <p class="hh">Nezmeškejte nové a výhodné akce</p>
+    <p>Zadejte svůj e-mail a obratem vám zašleme PDF s inspirací zdarma.</p>
+    <form action="newsletter.php" class="bar">
+        <div class="emailInp">
+            <label>
+                <img src="~/img/6.png" alt="">
+                <input required placeholder="Zadejte svůj email..." type="email" name="m">
+            </label>
+        </div>
+        <button> přihlásit</button>
+    </form>
+</div>
+
