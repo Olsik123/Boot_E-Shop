@@ -36,8 +36,7 @@ public partial class MyContext : DbContext
     public virtual DbSet<TbVariation> TbVariations { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseMySql("server=mysqlstudenti.litv.sssvt.cz;user=psotkaoldrich;password=123456;database=4b2_psotkaoldrich_db2", Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.3.25-mariadb"));
+        => optionsBuilder.UseMySql("server=server;user=name;password=pass;database=dbs", Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.3.25-mariadb"));
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj": {}
+    "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj": {
+    "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj",
+        "projectUniqueName": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj",
         "projectName": "Psotka_ASP",
-        "projectPath": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj",
+        "projectPath": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj",
         "packagesPath": "C:\\Users\\Herní Dělo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\obj\\",
+        "outputPath": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Herní Dělo\\AppData\\Roaming\\NuGet\\NuGet.Config",

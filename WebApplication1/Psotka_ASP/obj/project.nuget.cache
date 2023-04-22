@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vZsLiwni3Pj/Nw6yLudCFzUGmHzr0TP3Joi86HFvWTHGWHXEy3EjVKEdhcMGOgxxmoCo2DSd6xGiyeEzTpNxUw==",
+  "dgSpecHash": "vMWCmXanbXg71rm05UvTX/tUBTcOQfGPffv8erceFq19E6/KvGl2nPaaEYM622yZJcoXLOs/cV22YMpGAhGgHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj",
+  "projectFilePath": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\Psotka_ASP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Herní Dělo\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Herní Dělo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

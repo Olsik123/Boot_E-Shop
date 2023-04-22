@@ -8,81 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebApplication1
 build_property.RootNamespace = WebApplication1
-build_property.ProjectDir = C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP\
+build_property.ProjectDir = D:\Visual Basic\E-Shop Boots\E-Shop\WebApplication1\Psotka_ASP\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Herní Dělo\Desktop\ŠKOLA\WebApplication1\Psotka_ASP
+build_property.MSBuildProjectDirectory = D:\Visual Basic\E-Shop Boots\E-Shop\WebApplication1\Psotka_ASP
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Admin/Boots.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Admin/Boots.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQm9vdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Admin/EditBoot.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Admin/EditBoot.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEJvb3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Admin/Index.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Admin/Order.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Admin/Order.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cT3JkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Admin/Register.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Admin/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Cart/Acknowledgement.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Cart/Acknowledgement.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxBY2tub3dsZWRnZW1lbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Cart/Index.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Home/Index.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Login/Index.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Product/Index.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Selection/Index.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Selection/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsZWN0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Shared/Components/NavComponent/Default.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Shared/Components/NavComponent/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTmF2Q29tcG9uZW50XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Shared/Error.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Shared/_AdminLayout.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/_ViewImports.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/_ViewStart.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Herní Dělo/Desktop/ŠKOLA/WebApplication1/Psotka_ASP/Views/Shared/_Layout.cshtml]
+[D:/Visual Basic/E-Shop Boots/E-Shop/WebApplication1/Psotka_ASP/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-c120ktjasn
