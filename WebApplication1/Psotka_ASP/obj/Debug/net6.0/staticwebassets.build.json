@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pauC/ZM8GQARmUp1Wh+evxs0Gnsx3RmEY5GuMU85OM0=",
+  "Hash": "shk0fRyysU86C/pxBNaIlmLq7aXiy8PQEVyJ+RzcQss=",
   "Source": "Psotka_ASP",
   "BasePath": "_content/Psotka_ASP",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Psotka_ASP\\wwwroot",
       "Source": "Psotka_ASP",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Psotka_ASP.styles.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Psotka_ASP.styles.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "Psotka_ASP.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Psotka_ASP.styles.css"
+      "OriginalItemSpec": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Psotka_ASP.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Psotka_ASP.bundle.scp.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Psotka_ASP.bundle.scp.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "Psotka_ASP.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Psotka_ASP.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Psotka_ASP.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\73.JPG",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\73.JPG",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/73.JPG",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\73.JPG"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\84.JPG",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\84.JPG",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/84.JPG",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\84.JPG"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\86.JPG",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\86.JPG",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/86.JPG",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\86.JPG"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/bezeckaaa.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\bezeckaaa.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/bezeckaaa2.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\bezeckaaa2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/bezeckaaa3.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\bezeckaaa3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\bezeckaaa4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/bezeckaaa4.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\bezeckaaa4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/damLod.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\damLod.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/damLod2.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\damLod2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/damLod3.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\damLod3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\damLod4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/damLod4.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\damLod4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeMokasiny.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeMokasiny.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeMokasiny2.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeMokasiny2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeMokasiny3.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeMokasiny3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeMokasiny4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeMokasiny4.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeMokasiny4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeSneakers.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeSneakers.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeSneakers2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeSneakers2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeSneakers3.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeSneakers3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\DamskeSneakers4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/DamskeSneakers4.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\DamskeSneakers4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/HolinkyD.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\HolinkyD.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/HolinkyD2.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\HolinkyD2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/HolinkyD3.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\HolinkyD3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\HolinkyD4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/HolinkyD4.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\HolinkyD4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/kozajdy.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\kozajdy.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/kozajdy2.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\kozajdy2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/kozajdy3.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\kozajdy3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\kozajdy4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/kozajdy4.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\kozajdy4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/MokasinyModre.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\MokasinyModre.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/MokasinyModre2.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\MokasinyModre2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/MokasinyModre3.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\MokasinyModre3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\MokasinyModre4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/MokasinyModre4.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\MokasinyModre4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/nazouvaci.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\nazouvaci.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/nazouvaci2.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\nazouvaci2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/nazouvaci3.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\nazouvaci3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\nazouvaci4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/nazouvaci4.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\nazouvaci4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/panskeBotyCerne.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\panskeBotyCerne.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/panskeBotyCerne2.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\panskeBotyCerne2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/panskeBotyCerne3.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\panskeBotyCerne3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\panskeBotyCerne4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/panskeBotyCerne4.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\panskeBotyCerne4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/PS.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\PS.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/PS2.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\PS2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/PS3.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\PS3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\PS4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/PS4.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\PS4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/suchyzipp.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\suchyzipp.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/suchyzipp2.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\suchyzipp2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/suchyzipp3.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\suchyzipp3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\suchyzipp4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/suchyzipp4.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\suchyzipp4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/vodenka.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\vodenka.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka2.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka2.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/vodenka2.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\vodenka2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka3.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka3.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/vodenka3.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\vodenka3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka4.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\vodenka4.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/vodenka4.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\vodenka4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\ZKOUSKA.jpg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\BootPhotos\\ZKOUSKA.jpg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "BootPhotos/ZKOUSKA.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\BootPhotos\\ZKOUSKA.jpg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\Ack.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\Ack.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/Ack.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Ack.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\adminBoots.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\adminBoots.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/adminBoots.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\css\\adminBoots.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\adminEditBoot.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\adminEditBoot.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/adminEditBoot.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\css\\adminEditBoot.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\adminLayout.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\adminLayout.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/adminLayout.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\css\\adminLayout.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\AdminOrders.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\AdminOrders.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/AdminOrders.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\css\\AdminOrders.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\cartStyle.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\cartStyle.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/cartStyle.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\css\\cartStyle.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\footer.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\footer.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/footer.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\footer.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\header.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\header.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/header.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\header.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\homestyle.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\homestyle.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/homestyle.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\homestyle.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\loginstyle.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\loginstyle.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/loginstyle.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\loginstyle.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\navComponent.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\navComponent.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/navComponent.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\navComponent.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\productstyle.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\productstyle.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/productstyle.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\productstyle.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\selection.css",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\css\\selection.css",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "css/selection.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\selection.css"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\favicon.ico",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\01.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\01.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/01.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\01.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\02.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\02.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/02.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\02.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\03-01.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\03-01.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/03-01.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\03-01.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\6.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\6.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/6.png",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\6.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\6.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\6.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/6.svg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\6.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\8.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\8.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/8.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\8.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\8.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\8.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/8.svg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\8.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Add.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Add.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Add.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Add.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\bluearrow.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\bluearrow.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/bluearrow.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bluearrow.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\botybile.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\botybile.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/botybile.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\botybile.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\current.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\current.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/current.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\current.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Delete.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Delete.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Delete.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Delete.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\empty.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\empty.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/empty.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\empty.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\facebook.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\facebook.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/facebook.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\facebook.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\facebook.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\facebook.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/facebook.svg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\facebook.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 153.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 153.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 153.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 153.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 153.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 153.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 153.svg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 153.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 169.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 169.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 169.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 169.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 169.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 169.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 169.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 169.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 171.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 171.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 171.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 171.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 171.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 171.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 171.svg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 171.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 195.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 195.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 195.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 195.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 195.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 195.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 195.svg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 195.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 196.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 196.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 196.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 196.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 196.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 196.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 196.svg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 196.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 293.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 293.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 293.png",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 293.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 293.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 293.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 293.svg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 293.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 295.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 295.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 295.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 295.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 295.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 295.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 295.svg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 295.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 4.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 4.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 4.png",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 4.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 4.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Group 4.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Group 4.svg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Group 4.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\heart.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\heart.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/heart.png",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\heart.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\heart.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\heart.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/heart.svg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\heart.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\idk.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\idk.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/idk.png",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\idk.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\key.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\key.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/key.png",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\key.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\key.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\key.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/key.svg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\key.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\kosik.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\kosik.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/kosik.png",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\kosik.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\loupe.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\loupe.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/loupe.png",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\loupe.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\loupe.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\loupe.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/loupe.svg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\loupe.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Minus.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Minus.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Minus.png",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Minus.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\NOHY.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\NOHY.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/NOHY.png",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\NOHY.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\profile-user.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\profile-user.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/profile-user.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\profile-user.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\profile-user.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\profile-user.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/profile-user.svg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\profile-user.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\redarrow.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\redarrow.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/redarrow.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\redarrow.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\redarrow2.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\redarrow2.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/redarrow2.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\redarrow2.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\sipka_doleva.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\sipka_doleva.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/sipka_doleva.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sipka_doleva.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\sipka_doprava.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\sipka_doprava.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/sipka_doprava.png",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sipka_doprava.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Thumbs.db",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\Thumbs.db",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\twitter.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\twitter.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/twitter.png",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\twitter.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\twitter.svg",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img\\twitter.svg",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img/twitter.svg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\twitter.svg"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\10e0f753-ec99-11eb-9461-02420a000b04.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\10e0f753-ec99-11eb-9461-02420a000b04.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/10e0f753-ec99-11eb-9461-02420a000b04.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\10e0f753-ec99-11eb-9461-02420a000b04.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\15146773-eb93-11eb-9461-02420a000b04.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\15146773-eb93-11eb-9461-02420a000b04.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/15146773-eb93-11eb-9461-02420a000b04.png",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\15146773-eb93-11eb-9461-02420a000b04.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\20c2c89d-ae92-11ec-b9bd-02420a000a27.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\20c2c89d-ae92-11ec-b9bd-02420a000a27.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/20c2c89d-ae92-11ec-b9bd-02420a000a27.png",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\20c2c89d-ae92-11ec-b9bd-02420a000a27.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\2930e14d-da4b-11eb-8d3f-02420a000b23.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\2930e14d-da4b-11eb-8d3f-02420a000b23.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/2930e14d-da4b-11eb-8d3f-02420a000b23.png",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\2930e14d-da4b-11eb-8d3f-02420a000b23.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\5a358f8ad37329.3086527515134595948661.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\5a358f8ad37329.3086527515134595948661.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/5a358f8ad37329.3086527515134595948661.png",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\5a358f8ad37329.3086527515134595948661.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\79ec4063-e3fd-11eb-8d3f-02420a000b23.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\79ec4063-e3fd-11eb-8d3f-02420a000b23.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/79ec4063-e3fd-11eb-8d3f-02420a000b23.png",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\79ec4063-e3fd-11eb-8d3f-02420a000b23.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\7c895c56-e3fd-11eb-8d3f-02420a000b23.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\7c895c56-e3fd-11eb-8d3f-02420a000b23.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/7c895c56-e3fd-11eb-8d3f-02420a000b23.png",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\7c895c56-e3fd-11eb-8d3f-02420a000b23.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\8291fafa-e3fd-11eb-8d3f-02420a000b23.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\8291fafa-e3fd-11eb-8d3f-02420a000b23.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/8291fafa-e3fd-11eb-8d3f-02420a000b23.png",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\8291fafa-e3fd-11eb-8d3f-02420a000b23.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\a09dbd19-0357-11ec-a9ba-02420a000a40.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\a09dbd19-0357-11ec-a9ba-02420a000a40.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/a09dbd19-0357-11ec-a9ba-02420a000a40.png",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\a09dbd19-0357-11ec-a9ba-02420a000a40.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\a58593ea-26cb-11ed-842e-02420a000a33.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\a58593ea-26cb-11ed-842e-02420a000a33.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/a58593ea-26cb-11ed-842e-02420a000a33.png",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\a58593ea-26cb-11ed-842e-02420a000a33.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota1.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota1.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/bota1.png",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\bota1.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota2.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota2.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/bota2.png",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\bota2.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota3.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota3.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/bota3.png",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\bota3.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota4.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota4.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/bota4.png",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\bota4.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota5.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\bota5.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/bota5.png",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\bota5.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\Decko.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\Decko.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/Decko.png",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\Decko.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\logo.webp",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\logo.webp",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/logo.webp",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\logo.webp"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\sipka.png",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\sipka.png",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/sipka.png",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\sipka.png"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\Thumbs.db",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\img2\\Thumbs.db",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "img2/Thumbs.db",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\img2\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\js\\site.js",
       "SourceId": "Psotka_ASP",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Herní Dělo\\Desktop\\ŠKOLA\\WebApplication1\\Psotka_ASP\\wwwroot\\",
+      "ContentRoot": "D:\\Visual Basic\\E-Shop Boots\\E-Shop\\WebApplication1\\Psotka_ASP\\wwwroot\\",
       "BasePath": "_content/Psotka_ASP",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
